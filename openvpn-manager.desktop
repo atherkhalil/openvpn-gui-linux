@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OpenVPN Connection Manager
+Comment=GUI application for managing OpenVPN connections on Linux
+Exec=/usr/local/bin/openvpn-manager
+Icon=openvpn-manager
+Terminal=false
+Categories=Network;VPN;Security;
+Keywords=vpn;openvpn;network;security;connection;
+StartupNotify=true
+MimeType=
+
