@@ -36,7 +36,7 @@ A modern GUI application for managing OpenVPN connections on Linux. This tool pr
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd /home/ather/work/Projects/Personal/openvpn_linux_ui
+   cd ~/openvpn_linux_ui
    ```
 
 2. **Run the setup script (recommended):**
